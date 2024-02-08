@@ -1,0 +1,8 @@
+    location / {
+        try_files $uri $uri/ /index.php?$args;
+    }
+
+    location = /config.json {
+        deny all;
+        return 403;
+    }
