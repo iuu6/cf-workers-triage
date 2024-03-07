@@ -1,3 +1,5 @@
+# **Warning⚠: this project was taken over by better developers: https://github.com/codehz/cfworker-balancer**
+
 # cf-workers-triage
 A Go and php based automated cloudflare worker triage system for high volume free cloudflare worker users (more suitable for alist users).
 
